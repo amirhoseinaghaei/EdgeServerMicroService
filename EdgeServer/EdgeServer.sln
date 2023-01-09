@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeServer", "EdgeServer\EdgeServer.csproj", "{FDE30272-3651-44ED-A180-D60E94E16287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE30272-3651-44ED-A180-D60E94E16287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE30272-3651-44ED-A180-D60E94E16287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE30272-3651-44ED-A180-D60E94E16287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE30272-3651-44ED-A180-D60E94E16287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DAB15C9-5D90-4742-B9E1-C8C7B9FFD512}
+	EndGlobalSection
+EndGlobal
